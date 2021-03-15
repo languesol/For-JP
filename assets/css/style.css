@@ -600,7 +600,7 @@ nav ul li a {
   }
   .portfolio-details .portfolio-info {
     position: static;
-    margin-top: 30px;
+    margin-top: 0px;
   }
 }
 
