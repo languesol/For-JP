@@ -535,7 +535,7 @@ nav ul li a {
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
   margin-top: 5px;
-  text-align: left;
+  text-align: center;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot {
