@@ -553,7 +553,7 @@ nav ul li a {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: -70px;
   background: #fff;
@@ -599,7 +599,7 @@ nav ul li a {
     width: 100%;
   }
   .portfolio-details .portfolio-info {
-    position: static;
+    position: relative;
     margin-top: 0px;
   }
 }
