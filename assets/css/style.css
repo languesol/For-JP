@@ -529,7 +529,7 @@ nav ul li a {
 }
 
 .portfolio-details .portfolio-details-carousel {
-  position: relative;
+  position: static;
   z-index: 1;
 }
 
